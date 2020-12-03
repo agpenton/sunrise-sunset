@@ -1,0 +1,11 @@
+requests~=2.25.0
+datetime~=4.3
+pip~=20.2.4
+pytz~=2020.4
+certifi~=2020.11.8
+chardet~=3.0.4
+urllib3~=1.26.2
+idna~=2.10
+setuptools~=50.3.2
+tzlocal
+astral
