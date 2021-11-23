@@ -5,7 +5,7 @@ pytz~=2020.4
 certifi~=2020.11.8
 chardet~=3.0.4
 urllib3~=1.26.2
-idna~=2.10
+idna~=3.3
 setuptools~=50.3.2
 tzlocal
 astral
