@@ -1,6 +1,6 @@
 requests~=2.25.0
 datetime~=4.3
-pip~=20.2.4
+pip~=20.3.4
 pytz~=2020.4
 certifi~=2020.11.8
 chardet~=3.0.4
