@@ -1,4 +1,4 @@
-requests~=2.26.0
+requests~=2.27.1
 datetime~=4.3
 pip~=21.3.1
 pytz~=2021.3
