@@ -1,5 +1,5 @@
 requests~=2.32.5
-datetime~=4.3
+datetime~=6.0
 pip~=25.3.0
 pytz~=2021.3
 certifi~=2025.11.12
