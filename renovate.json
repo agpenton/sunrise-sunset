@@ -1,10 +1,13 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": ["config:recommended"],
-  "platformAutomerge": true,
+
+  "autoApprove": true,
+
   "automerge": true,
   "automergeType": "pr",
-  "major": {
-    "automerge": true
-  }
+  "automergeStrategy": "auto",
+
+  "rebaseWhen": "auto",
+  "pruneBranchAfterAutomerge": true
 }
