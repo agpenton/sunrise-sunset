@@ -6,6 +6,6 @@ certifi~=2025.11.12
 chardet~=5.2.0
 urllib3~=2.6.2
 idna~=3.3
-setuptools~=78.1.1
+setuptools~=80.9.0
 tzlocal
 astral
